@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1012224,
       "digest": "sha256:ae6858e4fefe9881d63de28fdcec6426e738e257e431588d4e3e3a61d638e867",
-      "download_count": 2493,
+      "download_count": 2495,
       "created_at": "2026-01-26T04:49:00Z",
       "updated_at": "2026-01-26T04:49:00Z",
       "browser_download_url": "https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-pc-windows-msvc.exe"
