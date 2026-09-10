@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1537636,
       "digest": "sha256:c4367e3b4ba36adbd21722ec5ffa4d9f528acbbb4d6f253ac7c8030bbb4a629c",
-      "download_count": 628,
+      "download_count": 629,
       "created_at": "2026-01-26T04:50:40Z",
       "updated_at": "2026-01-26T04:50:40Z",
       "browser_download_url": "https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-aarch64-unknown-linux-gnu"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1491720,
       "digest": "sha256:05f4c80fcf1318e12a649426f11947d3d01db7259a7ebbebda9ea15a6687bd84",
-      "download_count": 65,
+      "download_count": 66,
       "created_at": "2026-01-26T04:50:07Z",
       "updated_at": "2026-01-26T04:50:08Z",
       "browser_download_url": "https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-arm-unknown-linux-musleabihf"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1434960,
       "digest": "sha256:7b792ae02a19a8ae9b234a891f8f235dd33086033ee78bc7e70101d72113fb5a",
-      "download_count": 53,
+      "download_count": 54,
       "created_at": "2026-01-26T04:50:00Z",
       "updated_at": "2026-01-26T04:50:00Z",
       "browser_download_url": "https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-armv7-unknown-linux-gnueabihf"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1558952,
       "digest": "sha256:5208ba2fac015585e535bbf12c3d5743bb11f16194fe19b79a1213975a312c12",
-      "download_count": 1505,
+      "download_count": 1508,
       "created_at": "2026-01-26T04:49:50Z",
       "updated_at": "2026-01-26T04:49:50Z",
       "browser_download_url": "https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-unknown-linux-gnu"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1629460,
       "digest": "sha256:f382b3466ef85ed8394064ef49ed8d446e6aebd67791a42456c3d36c6dd164e8",
-      "download_count": 723,
+      "download_count": 724,
       "created_at": "2026-01-26T04:49:55Z",
       "updated_at": "2026-01-26T04:49:55Z",
       "browser_download_url": "https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-unknown-linux-musl"

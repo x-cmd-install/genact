@@ -1,0 +1,212 @@
+- repo: nix_stable_25_11
+  srcname: genact
+  visiblename: genact
+  version: 1.4.2
+  origversion: null
+  status: outdated
+  summary: Nonsense activity generator
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: genact
+  binname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: 1.5.1-r0
+  status: newest
+  summary: A nonsense activity generator
+  maintainers:
+    - guy.godfroy@gugod.fr
+  licenses:
+    - MIT
+- repo: altsisyphus
+  srcname: genact
+  binnames:
+    - genact
+    - genact-debuginfo
+  visiblename: genact
+  version: 1.5.1
+  origversion: 1.5.1-alt1
+  status: newest
+  summary: A nonsense activity generator
+  maintainers:
+    - l27001@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Games/Other
+- repo: arch
+  subrepo: extra
+  srcname: genact
+  binname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: 1.5.1-2
+  status: newest
+  summary: A nonsense activity generator
+  licenses:
+    - MIT
+- repo: crates_io
+  srcname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: A nonsense activity generator
+- repo: freebsd
+  srcname: games/genact
+  binname: genact
+  visiblename: games/genact
+  version: 1.5.1
+  origversion: 1.5.1_6
+  status: newest
+  summary: Nonsense activity generator
+  maintainers:
+    - eduardo@freebsd.org
+  categories:
+    - games
+- repo: homebrew
+  srcname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: Nonsense activity generator
+- repo: macports
+  srcname: games/genact
+  binname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: A nonsense activity generator
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - games
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: genact
+  binname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: 1.5.1-2
+  status: newest
+  summary: A nonsense activity generator
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: genact
+  binname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: 1.5.1-2
+  status: newest
+  summary: A nonsense activity generator
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: genact
+  binname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: 1.5.1-2
+  status: newest
+  summary: A nonsense activity generator
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: genact
+  visiblename: genact
+  version: 1.4.2
+  origversion: null
+  status: outdated
+  summary: A nonsense activity generator
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: genact
+  visiblename: genact
+  version: 1.4.2
+  origversion: null
+  status: outdated
+  summary: Nonsense activity generator
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: genact
+  visiblename: genact
+  version: 1.4.2
+  origversion: null
+  status: outdated
+  summary: Nonsense activity generator
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: Nonsense activity generator
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: Nonsense activity generator
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: genact
+  binname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: 1.5.1-2
+  status: newest
+  summary: A nonsense activity generator
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: genact
+  binname: genact
+  visiblename: genact
+  version: 1.5.1
+  origversion: 1.5.1_1
+  status: newest
+  summary: Nonsense activity generator
+  maintainers:
+    - kirill39.pesin@ya.ru
+  licenses:
+    - MIT
