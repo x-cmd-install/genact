@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1537636,
       "digest": "sha256:c4367e3b4ba36adbd21722ec5ffa4d9f528acbbb4d6f253ac7c8030bbb4a629c",
-      "download_count": 624,
+      "download_count": 626,
       "created_at": "2026-01-26T04:50:40Z",
       "updated_at": "2026-01-26T04:50:40Z",
       "browser_download_url": "https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-aarch64-unknown-linux-gnu"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1012224,
       "digest": "sha256:ae6858e4fefe9881d63de28fdcec6426e738e257e431588d4e3e3a61d638e867",
-      "download_count": 2522,
+      "download_count": 2528,
       "created_at": "2026-01-26T04:49:00Z",
       "updated_at": "2026-01-26T04:49:00Z",
       "browser_download_url": "https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-pc-windows-msvc.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1558952,
       "digest": "sha256:5208ba2fac015585e535bbf12c3d5743bb11f16194fe19b79a1213975a312c12",
-      "download_count": 1489,
+      "download_count": 1500,
       "created_at": "2026-01-26T04:49:50Z",
       "updated_at": "2026-01-26T04:49:50Z",
       "browser_download_url": "https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-unknown-linux-gnu"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1629460,
       "digest": "sha256:f382b3466ef85ed8394064ef49ed8d446e6aebd67791a42456c3d36c6dd164e8",
-      "download_count": 718,
+      "download_count": 721,
       "created_at": "2026-01-26T04:49:55Z",
       "updated_at": "2026-01-26T04:49:55Z",
       "browser_download_url": "https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-unknown-linux-musl"
