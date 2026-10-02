@@ -42,43 +42,43 @@ x install genact
 
 ## 发布
 
-- **最新版本**: `v1.5.1` (2026-01-26)
-- **最近提交**: 2026-09-01
+- **最新版本**: `v1.6.0` (2026-10-01)
+- **最近提交**: 2026-10-01
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 12,207 · **Fork**: 496 · **开放 issue**: 67 · **贡献者**: 34
+- **Star**: 12,207 · **Fork**: 496 · **开放 issue**: 67 · **贡献者**: 35
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 358 · **开放 PR**: 5 · **已关闭 issue**: 55 · **开放 issue**: 12 · **提交数**: 1182
+- **发布数**: 28 · **已合并 PR**: 360 · **开放 PR**: 3 · **已关闭 issue**: 55 · **开放 issue**: 12 · **提交数**: 1187
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 0 | 0 | 3 | 0 | 0 | 3 |
-| 90d | 2026-07-03 | 0 | 1 | 3 | 1 | 0 | 4 |
-| last180d | 2026-04-04 | 0 | 4 | 4 | 1 | 1 | 7 |
-| 360d | 2025-10-06 | 2 | 12 | 5 | 5 | 3 | 41 |
-| last720d | 2024-10-11 | 2 | 24 | 5 | 10 | 4 | 85 |
+| 30d | 2026-09-02 | 1 | 2 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-03 | 1 | 2 | 1 | 0 | 0 | 8 |
+| 90d | 2026-07-04 | 1 | 3 | 1 | 1 | 0 | 9 |
+| last180d | 2026-04-05 | 1 | 6 | 2 | 1 | 1 | 12 |
+| 360d | 2025-10-07 | 3 | 14 | 3 | 5 | 3 | 46 |
+| last720d | 2024-10-12 | 3 | 26 | 3 | 10 | 4 | 90 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [genact-1.5.1-aarch64-unknown-linux-gnu](https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-aarch64-unknown-linux-gnu) | 1.5 MiB | `native/linux/arm64/glibc` |
-| [genact-1.5.1-aarch64-unknown-linux-musl](https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-aarch64-unknown-linux-musl) | 1.5 MiB | `native/linux/arm64/musl` |
-| [genact-1.5.1-arm-unknown-linux-musleabihf](https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-arm-unknown-linux-musleabihf) | 1.4 MiB | `native/linux/arm/musl` |
-| [genact-1.5.1-armv7-unknown-linux-gnueabihf](https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-armv7-unknown-linux-gnueabihf) | 1.4 MiB | `native/linux/arm/glibc` |
-| [genact-1.5.1-armv7-unknown-linux-musleabihf](https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-armv7-unknown-linux-musleabihf) | 1.4 MiB | `native/linux/arm/musl` |
-| [genact-1.5.1-x86_64-apple-darwin](https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-apple-darwin) | 4.2 MiB | `native/darwin/x64` |
-| [genact-1.5.1-x86_64-pc-windows-msvc.exe](https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-pc-windows-msvc.exe) | 988.5 KiB | `native/win/x64` |
-| [genact-1.5.1-x86_64-unknown-freebsd](https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-unknown-freebsd) | 4.7 MiB | `other` |
-| [genact-1.5.1-x86_64-unknown-linux-gnu](https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-unknown-linux-gnu) | 1.5 MiB | `native/linux/x64/glibc` |
-| [genact-1.5.1-x86_64-unknown-linux-musl](https://github.com/svenstaro/genact/releases/download/v1.5.1/genact-1.5.1-x86_64-unknown-linux-musl) | 1.6 MiB | `native/linux/x64/musl` |
+| [genact-1.6.0-aarch64-unknown-linux-gnu](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-aarch64-unknown-linux-gnu) | 1.5 MiB | `native/linux/arm64/glibc` |
+| [genact-1.6.0-aarch64-unknown-linux-musl](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-aarch64-unknown-linux-musl) | 1.5 MiB | `native/linux/arm64/musl` |
+| [genact-1.6.0-arm-unknown-linux-musleabihf](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-arm-unknown-linux-musleabihf) | 1.4 MiB | `native/linux/arm/musl` |
+| [genact-1.6.0-armv7-unknown-linux-gnueabihf](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-armv7-unknown-linux-gnueabihf) | 1.4 MiB | `native/linux/arm/glibc` |
+| [genact-1.6.0-armv7-unknown-linux-musleabihf](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-armv7-unknown-linux-musleabihf) | 1.4 MiB | `native/linux/arm/musl` |
+| [genact-1.6.0-x86_64-apple-darwin](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-x86_64-apple-darwin) | 4.3 MiB | `native/darwin/x64` |
+| [genact-1.6.0-x86_64-pc-windows-msvc.exe](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-x86_64-pc-windows-msvc.exe) | 977.5 KiB | `native/win/x64` |
+| [genact-1.6.0-x86_64-unknown-freebsd](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-x86_64-unknown-freebsd) | 4.7 MiB | `other` |
+| [genact-1.6.0-x86_64-unknown-linux-gnu](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-x86_64-unknown-linux-gnu) | 1.5 MiB | `native/linux/x64/glibc` |
+| [genact-1.6.0-x86_64-unknown-linux-musl](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-x86_64-unknown-linux-musl) | 1.6 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -89,4 +89,4 @@ genact 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261001.yml` · 2026-10-01T06:03:38Z._
+_数据快照: `data/card/261002.yml` · 2026-10-02T05:41:06Z._
