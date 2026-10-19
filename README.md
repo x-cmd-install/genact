@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,224 · **Forks**: 542 · **Open issues**: 67 · **Contributors**: 35
+- **Stars**: 12,227 · **Forks**: 564 · **Open issues**: 67 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 1 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-19 | 1 | 2 | 0 | 0 | 0 | 8 |
-| 90d | 2026-07-20 | 1 | 3 | 0 | 1 | 0 | 9 |
-| last180d | 2026-04-21 | 1 | 6 | 1 | 1 | 1 | 12 |
-| 360d | 2025-10-23 | 3 | 14 | 2 | 5 | 3 | 46 |
-| last720d | 2024-10-28 | 3 | 26 | 2 | 10 | 4 | 88 |
+| 30d | 2026-09-19 | 1 | 1 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-20 | 1 | 2 | 0 | 0 | 0 | 8 |
+| 90d | 2026-07-21 | 1 | 3 | 0 | 1 | 0 | 9 |
+| last180d | 2026-04-22 | 1 | 6 | 1 | 1 | 1 | 12 |
+| 360d | 2025-10-24 | 3 | 14 | 2 | 5 | 3 | 46 |
+| last720d | 2024-10-29 | 3 | 26 | 2 | 10 | 4 | 88 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for genact lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:33:22Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:49:30Z._
