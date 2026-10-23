@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,226 · **Forks**: 495 · **Open issues**: 67 · **Contributors**: 35
+- **Stars**: 12,224 · **Forks**: 497 · **Open issues**: 66 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 360 · **Open PRs**: 2 · **Closed issues**: 55 · **Open issues**: 12 · **Commits**: 1187
+- **Releases**: 28 · **Merged PRs**: 360 · **Open PRs**: 2 · **Closed issues**: 55 · **Open issues**: 11 · **Commits**: 1187
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 1 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-23 | 1 | 2 | 0 | 0 | 0 | 8 |
-| 90d | 2026-07-24 | 1 | 3 | 0 | 1 | 0 | 9 |
-| last180d | 2026-04-25 | 1 | 6 | 1 | 1 | 0 | 12 |
-| 360d | 2025-10-27 | 3 | 14 | 2 | 5 | 3 | 46 |
-| last720d | 2024-11-01 | 3 | 25 | 2 | 10 | 4 | 88 |
+| 30d | 2026-09-23 | 1 | 1 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-24 | 1 | 2 | 0 | 0 | 0 | 8 |
+| 90d | 2026-07-25 | 1 | 3 | 0 | 1 | 0 | 9 |
+| last180d | 2026-04-26 | 1 | 6 | 1 | 1 | 0 | 12 |
+| 360d | 2025-10-28 | 3 | 14 | 2 | 5 | 2 | 46 |
+| last720d | 2024-11-02 | 3 | 25 | 2 | 10 | 3 | 86 |
 
 ## Release assets
 
@@ -80,6 +80,18 @@ Lowest-scoring checks:
 | [genact-1.6.0-x86_64-unknown-linux-gnu](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-x86_64-unknown-linux-gnu) | 1.5 MiB | `native/linux/x64/glibc` |
 | [genact-1.6.0-x86_64-unknown-linux-musl](https://github.com/svenstaro/genact/releases/download/v1.6.0/genact-1.6.0-x86_64-unknown-linux-musl) | 1.6 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **20** distros on [repology.org](https://repology.org/project/genact). **12** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.6.0` | ✅ latest |
+| Homebrew | `1.6.0` | ✅ latest |
+| Nix unstable | `1.6.0` | ✅ latest |
+| Void | `1.5.1` | ⚠️ outdated |
+| Alpine edge | `1.6.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for genact lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `genact` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +101,4 @@ Install metadata for genact lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:51:11Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:55:34Z._
