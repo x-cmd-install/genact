@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.6.0` (2026-10-01)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 12,225 · **Forks**: 496 · **Open issues**: 66 · **Contributors**: 35
+- **Stars**: 12,226 · **Forks**: 496 · **Open issues**: 66 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 360 · **Open PRs**: 3 · **Closed issues**: 55 · **Open issues**: 11 · **Commits**: 1187
+- **Releases**: 28 · **Merged PRs**: 361 · **Open PRs**: 2 · **Closed issues**: 55 · **Open issues**: 11 · **Commits**: 1188
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 1 | 2 | 1 | 0 | 0 | 5 |
-| 90d | 2026-08-03 | 1 | 2 | 1 | 0 | 0 | 8 |
-| last180d | 2026-05-05 | 1 | 5 | 2 | 1 | 0 | 11 |
-| 360d | 2025-11-06 | 3 | 13 | 3 | 5 | 2 | 45 |
-| last720d | 2024-11-11 | 3 | 25 | 3 | 9 | 3 | 86 |
+| 30d | 2026-10-03 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-03 | 1 | 3 | 0 | 0 | 0 | 6 |
+| 90d | 2026-08-04 | 1 | 3 | 0 | 0 | 0 | 9 |
+| last180d | 2026-05-06 | 1 | 6 | 1 | 1 | 0 | 12 |
+| 360d | 2025-11-07 | 3 | 14 | 2 | 5 | 2 | 46 |
+| last720d | 2024-11-12 | 3 | 26 | 2 | 9 | 3 | 87 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for genact lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:11:34Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:06:52Z._
