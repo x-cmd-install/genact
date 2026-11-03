@@ -90,8 +90,8 @@
   srcname: genact
   binname: genact
   visiblename: genact
-  version: 1.5.1
-  origversion: 1.5.1-2
+  version: 1.2.2
+  origversion: 1.2.2-1
   status: outdated
   summary: A nonsense activity generator
   licenses:
@@ -101,9 +101,9 @@
   srcname: genact
   binname: genact
   visiblename: genact
-  version: 1.6.0
-  origversion: 1.6.0-1
-  status: newest
+  version: 1.2.2
+  origversion: 1.2.2-1
+  status: outdated
   summary: A nonsense activity generator
   licenses:
     - MIT
