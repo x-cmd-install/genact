@@ -1,14 +1,3 @@
-- repo: parabola
-  subrepo: extra
-  srcname: genact
-  binname: genact
-  visiblename: genact
-  version: 1.6.0
-  origversion: 1.6.0-1
-  status: newest
-  summary: A nonsense activity generator
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: genact
@@ -195,6 +184,17 @@
     - novalkun@gmail.com
   licenses:
     - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: genact
+  binname: genact
+  visiblename: genact
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: A nonsense activity generator
+  licenses:
+    - MIT
 - repo: scoop
   subrepo: main
   binname: genact
@@ -209,9 +209,9 @@
   srcname: genact
   binname: genact
   visiblename: genact
-  version: 1.5.1
-  origversion: 1.5.1_1
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0_1
+  status: newest
   summary: Nonsense activity generator
   maintainers:
     - kirill39.pesin@ya.ru
