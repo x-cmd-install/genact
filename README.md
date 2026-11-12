@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,229 · **Forks**: 496 · **Open issues**: 68 · **Contributors**: 35
+- **Stars**: 12,231 · **Forks**: 496 · **Open issues**: 68 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 1 | 1 | 1 | 1 | 1 |
-| last60d | 2026-09-12 | 1 | 2 | 1 | 1 | 1 | 6 |
-| 90d | 2026-08-13 | 1 | 3 | 1 | 1 | 1 | 9 |
-| last180d | 2026-05-15 | 1 | 6 | 2 | 2 | 1 | 12 |
-| 360d | 2025-11-16 | 3 | 14 | 3 | 6 | 3 | 46 |
-| last720d | 2024-11-21 | 3 | 26 | 3 | 10 | 4 | 87 |
+| 30d | 2026-10-13 | 0 | 1 | 1 | 1 | 1 | 1 |
+| last60d | 2026-09-13 | 1 | 2 | 1 | 1 | 1 | 6 |
+| 90d | 2026-08-14 | 1 | 3 | 1 | 1 | 1 | 9 |
+| last180d | 2026-05-16 | 1 | 6 | 2 | 2 | 1 | 12 |
+| 360d | 2025-11-17 | 3 | 14 | 3 | 6 | 3 | 46 |
+| last720d | 2024-11-22 | 3 | 26 | 3 | 10 | 4 | 87 |
 
 ## Release assets
 
@@ -82,14 +82,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/genact). **13** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/genact). **14** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.6.0` | ✅ latest |
 | Homebrew | `1.6.0` | ✅ latest |
 | Nix unstable | `1.6.0` | ✅ latest |
-| Void | `1.5.1` | ⚠️ outdated |
+| Void | `1.6.0` | ✅ latest |
 | Alpine edge | `1.6.0` | ✅ latest |
 
 ## Improve this data
@@ -101,4 +101,4 @@ Install metadata for genact lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:17:30Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:27:31Z._
