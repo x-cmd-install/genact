@@ -1,3 +1,23 @@
+- repo: parabola
+  subrepo: extra
+  srcname: genact
+  binname: genact
+  visiblename: genact
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: A nonsense activity generator
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: genact
+  visiblename: genact
+  version: 1.6.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: genact
@@ -17,9 +37,9 @@
     - genact
     - genact-debuginfo
   visiblename: genact
-  version: 1.5.1
-  origversion: 1.5.1-alt1
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0-alt1
+  status: newest
   summary: A nonsense activity generator
   maintainers:
     - l27001@altlinux.org
@@ -182,26 +202,6 @@
   summary: Nonsense activity generator
   maintainers:
     - novalkun@gmail.com
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: genact
-  binname: genact
-  visiblename: genact
-  version: 1.6.0
-  origversion: 1.6.0-1
-  status: newest
-  summary: A nonsense activity generator
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: genact
-  visiblename: genact
-  version: 1.6.0
-  origversion: null
-  status: newest
   licenses:
     - MIT
 - repo: void_x86_64
